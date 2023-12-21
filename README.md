@@ -7,7 +7,10 @@ Explore the culmination of my efforts during the Enfobyte Internship with these 
 Level 2 Task 1 showcases a Digital Calculator implemented with precision and functionality.
 Check out the Digital Calculator: https://codepen.io/AjCodepan/full/GRBYgNR 
 Demo 
-https://github.com/AjinkyaSalunke22/OIBGRIP/assets/114003751/f0a5a6dc-27d0-4ea2-8b55-a07626164b6e
+
+https://github.com/AjinkyaSalunke22/OIBGRIP/assets/114003751/30276daa-2a29-4375-95cd-66f067f1d49f
+
+
 
 2. Tribute Page 
 
