@@ -24,8 +24,8 @@ Demo
 
 Level 2 Task 3 introduces a Todo App, combining design and usability for effective task management.
 Experience the Todo App: https://codepen.io/AjCodepan/full/BaPqyKo
-Demo
 
+Demo
 
 https://github.com/AjinkyaSalunke22/OIBGRIP/assets/114003751/5ef39e16-6318-489a-b5d1-cbe22e765674
 
